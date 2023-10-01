@@ -1,5 +1,7 @@
 # 💫 About Me:
 🍃 I'm currently learning React JS
+📱 I'm currently learning Android with Java
+📱 I'm currently learning PHP Advanced (OOP, MVC, & Laravel)
 
 
 ## 🌐 Socials:
