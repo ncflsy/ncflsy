@@ -3,7 +3,7 @@
 <br>
 📱 I'm currently learning Android with Java
 <br>
-🩻 I'm currently learning PHP Advanced (OOP, MVC, & Laravel)
+🩻 I'm currently learning PHP (Prosedural, OOP, & MVC Consept)
 
 
 ## 🌐 Socials:
