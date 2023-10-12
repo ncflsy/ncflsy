@@ -3,7 +3,7 @@
 <br>
 📱 I'm currently learning Android with Java
 <br>
-🩻 I'm currently learning PHP (OOP)
+🩻 I'm currently learning CodeIdnigter Framework
 
 
 ## 🌐 Socials:
