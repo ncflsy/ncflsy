@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h1 align="center">Hi, I'm Nico</h1>
 <h3 align="center">IT Enthusiast | UI/UX Enthusiast</h3>
-🍃 The tech stack i use is React JS, Tailwind, and Laravel
+🍃 The tech stack i use is React JS, Tailwind, and Laravel <br>
 ❄️ I currently learning Flutter Framework
 
 
