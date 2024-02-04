@@ -3,6 +3,7 @@
 <h3 align="center">IT Enthusiast | UI/UX Enthusiast</h3>
 🍃 The tech stack i use is React JS, Tailwind, and Laravel <br>
 ❄️ I currently learning Flutter Framework
+🔥 I currently learning Livewire for Laravel Framework
 
 
 ## 🌐 Socials:
