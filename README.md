@@ -14,6 +14,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ncflsy&icon=0&color=0)](https://visitcount.itsvg.in)
-![snake_gif](https://github.com/nclfsy/nclfsy/blob/output/github-contribution-grid-snake-dark.svg)
+![snake_gif](https://github.com/ncflsy/ncflsy/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
