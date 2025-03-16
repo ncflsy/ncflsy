@@ -1,5 +1,7 @@
 # 💫 About Me:
-❄️ I currently learning machine learning
+1st Winner = National Competition Hackthon SDGs UM 2024 - Category Governance <br>
+Bronze Medal - National Competition PlayIT - Category Software Development <br>
+1st Best Desktop App - TIF Exhibition 2022 - Category Desktop App
 
 
 ## 🌐 Socials:
