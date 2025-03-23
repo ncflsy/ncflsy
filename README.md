@@ -14,9 +14,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ncflsy&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ncflsy&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![An image of @ncflsy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ncflsy)](https://holopin.io/@ncflsy)
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ncflsy&icon=0&color=0)](https://visitcount.itsvg.in)
 ![snake_gif](https://github.com/ncflsy/ncflsy/blob/output/github-contribution-grid-snake-dark.svg)
