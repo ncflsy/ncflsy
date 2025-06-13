@@ -3,7 +3,9 @@
 🥇 1st Winner - National Competition Hackthon SDGs UM 2024 - Category Governance <br>
 🥉 3rd Winner - National Competition PlayIT - Category Software Development <br>
 🥇 1st Best Desktop App - TIF Exhibition 2022 - Category Desktop App
-
+⏱️ [ON GOING] Web Design UCDC 2025
+⏱️ [ON GOING] Olimpiade Vokasi Indonesia (OLIVIA) X UB 2025
+⏱️ [ON GOING] Pekam Kreativitas Mahasiswa (PKM) 2025
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nicoflsy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nico-flassy-2a016a229/) 
