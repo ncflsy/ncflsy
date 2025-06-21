@@ -1,9 +1,9 @@
 # 💫 About Me:
-🎖️ Finalist Hackathon - National Competition HackFest 2025 UC <br>
 🥇 1st Winner - National Competition Hackthon SDGs UM 2024 - Category Governance <br>
-🥉 3rd Winner - National Competition PlayIT - Category Software Development <br>
 🥇 1st Best Desktop App - TIF Exhibition 2022 - Category Desktop App <br>
-⏱️ [ON GOING FINALIST] Web Design UCDC 2025 <br>
+🥈 2nd Winner - Web Design Competition UCDC 2025<br>
+🥉 3rd Winner - National Competition PlayIT - Category Software Development <br>
+🎖️ Finalist Hackathon - National Competition HackFest 2025 UC <br>
 ⏱️ [ON GOING] Olimpiade Vokasi Indonesia (OLIVIA) X UB 2025 <br>
 ⏱️ [ON GOING] Pekam Kreativitas Mahasiswa (PKM) 2025 <br>
 
