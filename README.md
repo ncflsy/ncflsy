@@ -4,8 +4,8 @@
 🥈 2nd Winner - Web Design Competition UCDC 2025<br>
 🥉 3rd Winner - National Competition PlayIT - Category Software Development (Hackathon) <br>
 🎖️ Finalist Hackathon - National Competition HackFest 2025 UC <br>
-⏱️ [ON GOING] Olimpiade Vokasi Indonesia (OLIVIA) X UB 2025 <br>
-⏱️ [ON GOING] Pekam Kreativitas Mahasiswa (PKM) 2025 <br>
+🖥️ 35+ Software Project Completed
+⏱️ [ON GOING] Finalist Olimpiade Vokasi Indonesia (OLIVIA) X UB 2025 <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nicoflsy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nico-flassy-2a016a229/) 
