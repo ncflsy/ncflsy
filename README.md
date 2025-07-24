@@ -4,7 +4,7 @@
 🥈 2nd Winner - Web Design Competition UCDC 2025<br>
 🥉 3rd Winner - National Competition PlayIT - Category Software Development (Hackathon) <br>
 🎖️ Finalist Hackathon - National Competition HackFest 2025 UC <br>
-🖥️ 35+ Software Project Completed
+🖥️ 35+ Software Project Completed<br>
 ⏱️ [ON GOING] Finalist Olimpiade Vokasi Indonesia (OLIVIA) X UB 2025 <br>
 
 ## 🌐 Socials:
