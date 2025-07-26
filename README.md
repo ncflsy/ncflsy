@@ -1,4 +1,11 @@
-# 💫 About Me:
+# 💫 Sertifications:
+🎟️ BNSP Associate Data Scientiest - 2025
+🎟️ BNSP Cyber Security - 2024
+🎟️ BNSP Web Developer - 2023
+🎟️ BNSP Network Engineer - 2022
+
+BNSP Associate Data Scientiest
+# 🚀 Achievement:
 🥇 1st Winner - National Competition Hackathon SDGs UM 2024 - Category Governance <br>
 🥇 1st Best Desktop App - TIF Exhibition 2022 - Category Desktop App <br>
 🥈 2nd Winner - Web Design Competition UCDC 2025<br>
