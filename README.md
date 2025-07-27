@@ -1,4 +1,4 @@
-# 💫 Sertifications:
+# 💫 Certifications:
 🎟️ BNSP Associate Data Scientiest - 2025<br>
 🎟️ BNSP Cyber Security - 2024<br>
 🎟️ BNSP Web Developer - 2023<br>
