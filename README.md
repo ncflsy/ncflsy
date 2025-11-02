@@ -11,7 +11,7 @@
 🥈 2nd Winner - Web Design Competition UCDC 2025<br>
 🥉 3rd Winner - National Competition PlayIT - Category Software Development (Hackathon) <br>
 🎖️ Finalist Hackathon - National Competition HackFest 2025 UC <br>
-🖥️ 35+ Software Project Completed<br>
+🖥️ 40++ Software Project Completed<br>
 
 
 ## 🌐 Socials:
