@@ -1,3 +1,5 @@
+A Software Engineer currently developing a startup trusted by 25+ institutions and over 60,000+ active users.
+
 # 💫 Certifications:
 🎟️ BNSP Web Developer - 2026<br>
 🎟️ BNSP Associate Data Scientiest - 2025<br>
